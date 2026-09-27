@@ -70,11 +70,6 @@ BUG-02	TC-04	Invalid data (special characters) is accepted at checkout (AC5)
 BUG-03	TC-10	Item total shows a floating-point error, e.g. $57.980000000000004
 OBS-01	TC-09	Checkout overview can be opened directly with an empty cart (not covered by an AC)
 
-Prerequisites
-Node.js 18+
-VS Code with GitHub Copilot (Agent mode)
-A GitHub fine-grained Personal Access Token with Contents: Read and write on this repo
-
 Setup
 bash
 git clone https://github.com/reshma-pk/AI-E2EQAWorkflow-Playwright.git
